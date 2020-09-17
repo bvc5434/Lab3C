@@ -1,9 +1,9 @@
 // Author: Brendan Corso bvc5434@psu.edu
-// Collaborator:
-// Collaborator:
-// Collaborator:
-// Section: 
-// Breakout:
+// Collaborator: Christopher McKinney cmm8086@psu.edu
+// Collaborator: Mason McGuirk mtm5868@psu.edu
+// Collaborator: Zi han Xia zfx5078@psu.edu
+// Section: 004R
+// Breakout: 14
 
 #include <stdio.h>
 #include <stdlib.h>
