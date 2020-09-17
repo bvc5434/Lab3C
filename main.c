@@ -30,7 +30,7 @@ void print_n(const char *s, int n){
 
 int main(void) {
   char *iv = readline("Enter an int: ");
-  int num = atof(iv);
+  int num = atoi(iv);
   printf("sum is %d.\n", sum_n(num));
   char *inputS = readline("Enter a string: ");
   print_n(inputS, num);
